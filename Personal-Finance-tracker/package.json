@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "build":"npm i"
   },
-  "author": "Brad Traversy",
+  "author": "Rohitkumar",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
